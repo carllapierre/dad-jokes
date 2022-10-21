@@ -1,7 +1,7 @@
 Setup auto readme updater
 
 `git config --local core.hooksPath hooks/`
-# Dad Jokes
+# Dad Jokes!
 
 
 ```
