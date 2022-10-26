@@ -44,7 +44,7 @@
         "punchline": "A meltdown"
     },
     {
-        "hook": "What do you call a factory that makes ok products?",
+        "hook": "What do you call a factory that makes OK products?",
         "punchline": "Satisfactory"
     },
     {
@@ -54,6 +54,15 @@
     {
         "hook": "How many tickles does it take to make an octopus laugh?",
         "punchline": "Ten-tickles"
+    },
+    {
+        "hook": "What did baby corn say to mama corn?",
+        "punchline": "Where's pop-corn?"
+    },
+    {
+        "hook": "Why don't eggs tell jokes?",
+        "punchline": "They crack each other up"
     }
+
 
 ]
