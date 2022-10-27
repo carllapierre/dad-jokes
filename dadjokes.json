@@ -61,12 +61,18 @@
     },
     {
         "hook": "Why don't eggs tell jokes?",
-        "punchline": "They crack each other up"
+        "punchline": "They crack each other up."
     },
     {
         "hook": "Why programmers use dark themes?",
-        "punchline": "Light attacts bugs"
+        "punchline": "Light attacts bugs."
+    },
+    {
+        "hook": "Why should a triangle never get into an argument with a circle?",
+        "punchline": "Because its pointless."
+    },
+    {
+        "hook": "Why did the invisible man turn down a job offer?",
+        "punchline": "Because he couldn't see himself doing it."
     }
-
-
 ]
