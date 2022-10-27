@@ -62,6 +62,10 @@
     {
         "hook": "Why don't eggs tell jokes?",
         "punchline": "They crack each other up"
+    },
+    {
+        "hook": "Why programmers use dark themes?",
+        "punchline": "Light attacts bugs"
     }
 
 
