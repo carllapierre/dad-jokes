@@ -1,5 +1,5 @@
 # Dad Jokes!!
-
+Add jokes [here](/dadjokes.json)
 
 ```
 Why doesn’t James Bond fart in bed?
