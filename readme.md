@@ -109,7 +109,28 @@ Where's pop-corn?
 ```
 Why don't eggs tell jokes?
 
-They crack each other up
+They crack each other up.
+```
+
+
+```
+Why programmers use dark themes?
+
+Light attacts bugs.
+```
+
+
+```
+Why should a triangle never get into an argument with a circle?
+
+Because its pointless.
+```
+
+
+```
+Why did the invisible man turn down a job offer?
+
+Because he couldn't see himself doing it.
 ```
 
 
