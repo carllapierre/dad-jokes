@@ -1,6 +1,3 @@
-Setup auto readme updater
-
-`cp hooks/pre-commit .git/hooks`
 # Dad Jokes!
-
+Add jokes [here](/dadjokes.json)
 
