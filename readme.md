@@ -134,3 +134,17 @@ Because he couldn't see himself doing it.
 ```
 
 
+```
+Knock Knock? Who's there? Figs! Figs who?
+
+Figs your doorbell
+```
+
+
+```
+Knock Knock? Who's there? Boo! Boo who?
+
+Don't cry, it's only Halloween.
+```
+
+
