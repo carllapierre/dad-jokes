@@ -148,3 +148,38 @@ Don't cry, it's only Halloween.
 ```
 
 
+```
+Who won the skeleton beauty contest?
+
+No body.
+```
+
+
+```
+What is the scariest tree?
+
+BamBOO!
+```
+
+
+```
+Why can’t a leopard hide? 
+
+Because he’s always spotted.
+```
+
+
+```
+What do you call a snowman with a six-pack?
+
+ An abdominal snowman
+```
+
+
+```
+What did one snowman say to the other snowman?
+
+Do you smell carrots?
+```
+
+

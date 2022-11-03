@@ -82,5 +82,25 @@
     {
         "hook": "Knock Knock? Who's there? Boo! Boo who?",
         "punchline": "Don't cry, it's only Halloween."
+    },
+    {
+        "hook": "Who won the skeleton beauty contest?",
+        "punchline": "No body."
+    },
+    {
+        "hook": "What is the scariest tree?",
+        "punchline": "BamBOO!"
+    },
+    {
+        "hook": "Why can’t a leopard hide? ",
+        "punchline": "Because he’s always spotted."
+    },
+    {
+        "hook": "What do you call a snowman with a six-pack?",
+        "punchline": " An abdominal snowman"
+    },
+    {
+        "hook": "What did one snowman say to the other snowman?",
+        "punchline": "Do you smell carrots?"
     }
 ]
