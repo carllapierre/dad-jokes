@@ -172,7 +172,7 @@ Because he’s always spotted.
 ```
 What do you call a snowman with a six-pack?
 
- An abdominal snowman
+An abdominal snowman
 ```
 
 
