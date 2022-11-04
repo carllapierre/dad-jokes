@@ -116,7 +116,7 @@ They crack each other up.
 ```
 Why programmers use dark themes?
 
-Light attacts bugs.
+Light attracts bugs.
 ```
 
 
@@ -180,6 +180,34 @@ An abdominal snowman
 What did one snowman say to the other snowman?
 
 Do you smell carrots?
+```
+
+
+```
+Why can’t you ever run through a campsite?
+
+You can only ran — it’s always past tents.
+```
+
+
+```
+What’s the easiest way to burn 1,000 calories?
+
+Leave the pizza in the oven.
+```
+
+
+```
+What goes "oh oh oh"? Santa walking backwards.
+
+Why does Santa have three gardens? So he can 'ho ho ho'!
+```
+
+
+```
+What kind of medal would Santa Claus win?
+
+A Noel Prize
 ```
 
 

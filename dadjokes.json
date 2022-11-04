@@ -102,5 +102,21 @@
     {
         "hook": "What did one snowman say to the other snowman?",
         "punchline": "Do you smell carrots?"
+    },
+    {
+        "hook": "Why can’t you ever run through a campsite?",
+        "punchline": "You can only ran — it’s always past tents."
+    },
+    {
+        "hook": "What’s the easiest way to burn 1,000 calories?",
+        "punchline": "Leave the pizza in the oven."
+    },
+    {
+        "hook": "What goes \"oh oh oh\"? Santa walking backwards.",
+        "punchline": "Why does Santa have three gardens? So he can 'ho ho ho'!"
+    },
+    {
+        "hook": "What kind of medal would Santa Claus win?",
+        "punchline": "A Noel Prize"
     }
 ]
