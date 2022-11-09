@@ -112,11 +112,35 @@
         "punchline": "Leave the pizza in the oven."
     },
     {
-        "hook": "What goes \"oh oh oh\"? Santa walking backwards.",
-        "punchline": "Why does Santa have three gardens? So he can 'ho ho ho'!"
+        "hook": "What goes \"oh oh oh\"?",
+        "punchline": "Santa walking backwards."
+    },
+    {
+        "hook": "Why does Santa have three gardens?",
+        "punchline": "So he can 'ho ho ho'!"
     },
     {
         "hook": "What kind of medal would Santa Claus win?",
         "punchline": "A Noel Prize"
+    },
+    {
+        "hook": "What is a cop's favorite Christmas song?",
+        "punchline": "Police Navidad"
+    },
+    {
+        "hook": "What Christmas song do they play at the mental hospital?",
+        "punchline": "Do you see what I see?"
+    },
+    {
+        "hook": "Who claps for Christmas?",
+        "punchline": "Santapplause."
+    },
+    {
+        "hook": "Why is it so cold at Christmas?",
+        "punchline": "Because it’s in Decembrrrrrrr."
+    },
+    {
+        "hook": "What do snowmen eat for lunch?",
+        "punchline": "Icebergers!"
     }
 ]

@@ -198,9 +198,16 @@ Leave the pizza in the oven.
 
 
 ```
-What goes "oh oh oh"? Santa walking backwards.
+What goes "oh oh oh"?
 
-Why does Santa have three gardens? So he can 'ho ho ho'!
+Santa walking backwards.
+```
+
+
+```
+Why does Santa have three gardens?
+
+So he can 'ho ho ho'!
 ```
 
 
@@ -208,6 +215,41 @@ Why does Santa have three gardens? So he can 'ho ho ho'!
 What kind of medal would Santa Claus win?
 
 A Noel Prize
+```
+
+
+```
+What is a cop's favorite Christmas song?
+
+Police Navidad
+```
+
+
+```
+What Christmas song do they play at the mental hospital?
+
+Do you see what I see?
+```
+
+
+```
+Who claps for Christmas?
+
+Santapplause.
+```
+
+
+```
+Why is it so cold at Christmas?
+
+Because it’s in Decembrrrrrrr.
+```
+
+
+```
+What do snowmen eat for lunch?
+
+Icebergers!
 ```
 
 
