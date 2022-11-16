@@ -142,5 +142,41 @@
     {
         "hook": "What do snowmen eat for lunch?",
         "punchline": "Icebergers!"
+    },
+    {
+        "hook": "Christmas:",
+        "punchline": "The time when everyone gets Santamental."
+    },
+    {
+        "hook": "Not to brag, but I defeated our local chess champion in less than five moves.",
+        "punchline": "Finally, my high school karate lessons paid off"
+    },
+    {
+        "hook": "Air used to be free at the gas station, now it's $1.50. You know why?",
+        "punchline": "Inflation."
+    },
+    {
+        "hook": "Do you know 10 + 10 & 11 + 11 is same. What is 10 + 10 ? Twenty. What is 11 + 11?",
+        "punchline": "Twenty too"
+    },
+    {
+        "hook": "There are only 10 kinds of people in this world:",
+        "punchline": "Those who know binary and those who don’t."
+    },
+    {
+        "hook": "Why did the database administrator leave his wife?",
+        "punchline": "She had one-to-many relationships."
+    },
+    {
+        "hook": "What’s the second movie about a database engineer called?",
+        "punchline": "The SQL"
+    },
+    {
+        "hook": "Why did the functions stop calling each other?",
+        "punchline": "Because they had constant arguments."
+    },
+    {
+        "hook": "2B || !2B",
+        "punchline": "That’s the question"
     }
 ]

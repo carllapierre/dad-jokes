@@ -253,3 +253,66 @@ Icebergers!
 ```
 
 
+```
+Christmas:
+
+The time when everyone gets Santamental.
+```
+
+
+```
+Not to brag, but I defeated our local chess champion in less than five moves.
+
+Finally, my high school karate lessons paid off
+```
+
+
+```
+Air used to be free at the gas station, now it's $1.50. You know why?
+
+Inflation.
+```
+
+
+```
+Do you know 10 + 10 & 11 + 11 is same. What is 10 + 10 ? Twenty. What is 11 + 11?
+
+Twenty too
+```
+
+
+```
+There are only 10 kinds of people in this world:
+
+Those who know binary and those who don’t.
+```
+
+
+```
+Why did the database administrator leave his wife?
+
+She had one-to-many relationships.
+```
+
+
+```
+What’s the second movie about a database engineer called?
+
+The SQL
+```
+
+
+```
+Why did the functions stop calling each other?
+
+Because they had constant arguments.
+```
+
+
+```
+2B || !2B
+
+That’s the question
+```
+
+
