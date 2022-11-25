@@ -178,5 +178,57 @@
     {
         "hook": "2B || !2B",
         "punchline": "That’s the question"
+    },
+    {
+        "hook": "If bees start writing software",
+        "punchline": "Beeware"
+    },
+    {
+        "hook": "I thought I had illegal software in my fridge but then I realized...",
+        "punchline": "It is open sauce"
+    },
+    {
+        "hook": "Two sql developers walk into a bar & then walk straight out…",
+        "punchline": "Because there were no tables they could join"
+    },
+    {
+        "hook": "What language is used to program the self driving garbage truck?",
+        "punchline": "Java, because it already has garbage collection."
+    },
+    {
+        "hook": "Why did the constant break up with the variable?",
+        "punchline": "Because she changed…"
+    },
+    {
+        "hook": "What is a database programmer’s favourite drink?",
+        "punchline": "Da-queries"
+    },
+    {
+        "hook": "Why did the database administrator leave his wife?",
+        "punchline": "She had one-to-many relationships"
+    },
+    {
+        "hook": "Why do they use ‘i’ to loop through an array?",
+        "punchline": "Because without it, it is terable."
+    },
+    {
+        "hook": "Why do anarchists like functional programming?",
+        "punchline": "Because it has no state."
+    },
+    {
+        "hook": "How does a programmer determine what music they listen to?",
+        "punchline": "It must be in C and have a good algo-rythme"
+    },
+    {
+        "hook": "What’s a web developers favourite food?",
+        "punchline": "Cookies"
+    },
+    {
+        "hook": "Why did the programmer quit his job?",
+        "punchline": "Because he didn’t get arrays (a raise)"
+    },
+    {
+        "hook": "Knock knock - Who is there?",
+        "punchline": "Recursion - Knock Knock"
     }
 ]

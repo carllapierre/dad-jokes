@@ -316,3 +316,94 @@ That’s the question
 ```
 
 
+```
+If bees start writing software
+
+Beeware
+```
+
+
+```
+I thought I had illegal software in my fridge but then I realized...
+
+It is open sauce
+```
+
+
+```
+Two sql developers walk into a bar & then walk straight out…
+
+Because there were no tables they could join
+```
+
+
+```
+What language is used to program the self driving garbage truck?
+
+Java, because it already has garbage collection.
+```
+
+
+```
+Why did the constant break up with the variable?
+
+Because she changed…
+```
+
+
+```
+What is a database programmer’s favourite drink?
+
+Da-queries
+```
+
+
+```
+Why did the database administrator leave his wife?
+
+She had one-to-many relationships
+```
+
+
+```
+Why do they use ‘i’ to loop through an array?
+
+Because without it, it is terable.
+```
+
+
+```
+Why do anarchists like functional programming?
+
+Because it has no state.
+```
+
+
+```
+How does a programmer determine what music they listen to?
+
+It must be in C and have a good algo-rythme
+```
+
+
+```
+What’s a web developers favourite food?
+
+Cookies
+```
+
+
+```
+Why did the programmer quit his job?
+
+Because he didn’t get arrays (a raise)
+```
+
+
+```
+Knock knock - Who is there?
+
+Recursion - Knock Knock
+```
+
+
