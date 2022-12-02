@@ -407,3 +407,101 @@ Recursion - Knock Knock
 ```
 
 
+```
+I just found out I’m colorblind.
+
+The news came out of the purple!
+```
+
+
+```
+How do cows stay up to date?
+
+They read the Moo-spaper.
+```
+
+
+```
+I hate my job—all I do is crush cans all day.
+
+It’s soda pressing.
+```
+
+
+```
+What do you call a dog magician?
+
+A labracadabrador
+```
+
+
+```
+How do you count cows?
+
+With a cowculator
+```
+
+
+```
+What is more amazing than a talking dog?
+
+A spelling bee
+```
+
+
+```
+Why are teddy bears never hungry?
+
+They are always stuffed
+```
+
+
+```
+What do ducks put in their soup?
+
+Quackers.
+```
+
+
+```
+What did the buffalo say to his son when he went away on a trip?
+
+Bison
+```
+
+
+```
+Why aren't elephants allowed on beaches?
+
+They can’t keep their trunks up
+```
+
+
+```
+Why did the fish blush?
+
+Because it saw the ocean’s bottom.
+```
+
+
+```
+Why couldn't the leopard play hide and seek?
+
+Because he was always spotted!
+```
+
+
+```
+Why did the snake cross the road?
+
+To get to the other ssssssside!
+```
+
+
+```
+Can a kangaroo jump higher than the Empire State Building?
+
+Of course. Buildings can’t jump
+```
+
+
