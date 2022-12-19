@@ -505,3 +505,206 @@ Of course. Buildings can’t jump
 ```
 
 
+```
+What do you call a cat that’s in trouble with the police?
+
+A purr-petrator.
+```
+
+
+```
+What kind of sports cars do cats drive?
+
+Fur-arris
+```
+
+
+```
+Why was the cow afraid? 
+
+He was a cow-herd
+```
+
+
+```
+What did Mama cow say to Baby cow?
+
+It’s pasture bedtime.
+```
+
+
+```
+Did you hear about the guy that invented the knock knock joke?
+
+He won a Nobel Prize.
+```
+
+
+```
+Knock Knock. Who's there? I use yah. I use yah who?
+
+Really? Why? Google is way better.
+```
+
+
+```
+I tried to tell my dog a knock knock joke.
+
+But she just started barking.
+```
+
+
+```
+Knock, knock. Who’s there? Tank. Tank who?
+
+You’re welcome.
+```
+
+
+```
+Knock, knock. Who’s there? A broken pencil. A broken pencil who?
+
+Never mind. It’s pointless.
+```
+
+
+```
+Knock, knock. Who’s there? Luke. Luke who?
+
+Luke through the peephole and find out.
+```
+
+
+```
+Knock, knock. Who’s there? Hatch. Hatch who?
+
+Bless you.
+```
+
+
+```
+Knock, knock. Who’s there? Ice cream. Ice cream who?
+
+Ice cream if you don’t let me in!
+```
+
+
+```
+Knock, knock. Who’s there? Dejav. Dejav who?
+
+Knock, knock.
+```
+
+
+```
+Knock, knock. Who’s there? Nana. Nana who?
+
+Nana your business!
+```
+
+
+```
+Knock knock. Who’s there? Amish. Amish who?
+
+Really? You don’t look like a shoe.
+```
+
+
+```
+Knock knock. Who’s there? A little old lady. A little old lady who?
+
+Dang! All this time, I had no idea you could yodel.
+```
+
+
+```
+Knock knock. Who’s there? Horsp. Horsp who?
+
+Did you just say, “horse poo”?
+```
+
+
+```
+Knock knock. Who’s there? Colin. Colin who?
+
+Colonization! Just kidding, colonizers don’t knock before coming in
+```
+
+
+```
+Knock knock. Who’s there? Cash. Cash who?
+
+Nah, but I’ll take some almonds if you got them.
+```
+
+
+```
+Knock knock. Who’s there? Cowsgo. Cowsgo who?
+
+No, cows go MOO!
+```
+
+
+```
+Knock knock. Who’s there? Woo. Woo who?
+
+Sounds like a party in there!
+```
+
+
+```
+Knock knock. Who’s there? Alien. Alien who?
+
+Alien — wait, how many aliens do you know?
+```
+
+
+```
+I don’t often tell Dad jokes.
+
+But when I do, he laughs
+```
+
+
+```
+How do you keep bacon from curling in the pan?
+
+You take away their little brooms.
+```
+
+
+```
+What does it cost to hire a spy?
+
+I could tell you, but then I’d have to bill you.
+```
+
+
+```
+A clown held the door for me today.
+
+That was a nice jester.
+```
+
+
+```
+What did one shark say to the other while eating a clown fish?
+
+This tastes funny.
+```
+
+
+```
+Where do typists go to have a drink?
+
+The space bar.
+```
+
+
+```
+Did you hear about the world's largest pickle?
+
+It’s a really big dill (deal)
+```
+
+
