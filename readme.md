@@ -708,3 +708,143 @@ It’s a really big dill (deal)
 ```
 
 
+```
+Where did Luke get his cybernetic hand?
+
+The second hand store.
+```
+
+
+```
+Why couldn’t Luke find love?
+
+He was looking in Alderaan places.
+```
+
+
+```
+What do you call two Han Solos singing together?
+
+Han duet.
+```
+
+
+```
+What did the dentist say to Luke Skywalker?
+
+May be floss be with you.
+```
+
+
+```
+How does Darth Vader like his toast?
+
+On the dark side.
+```
+
+
+```
+What does Yoda do when he's tired of Luke's questions?
+
+Ewoks away.
+```
+
+
+```
+What kind of car is Yoda's favorite?
+
+A To-Yoda!
+```
+
+
+```
+Why was Yoda such a good gardener?
+
+Because he had green thumb.
+```
+
+
+```
+Why did Yoda refuse to believe that Obi Wan had a twin?
+
+Because there can only be Wan Kenobi.
+```
+
+
+```
+What was Yoda's last name?
+
+LayHeeHoo…
+```
+
+
+```
+Why didn’t any of Luke Skywalker’s marriages last?
+
+He always followed Obi-Wan’s advice: “Use divorce, Luke.”
+```
+
+
+```
+What does your Canadian friend cooking dinner for you have in common with the Empire from Star Wars?
+
+Pal-poutine.
+```
+
+
+```
+How long has Anakin Skywalker been evil?
+
+Since the Sith Grade.
+```
+
+
+```
+Why shouldn’t you ask Yoda for money?
+
+He’s a little short.
+```
+
+
+```
+Why was the Millennium Falcon easier to fly after The Force Awakens?
+
+It’s now Hans free.
+```
+
+
+```
+Where do Sith lords go shopping?
+
+The Darth Maul
+```
+
+
+```
+What's Darth Vader's favorite dessert?
+
+Only one cannoli
+```
+
+
+```
+How does Darth Vader eat with a mask on?
+
+He force feeds himself.
+```
+
+
+```
+Why doesn't Darth Vader like to eat Ewoks?
+
+He thinks they're a little Chewie.
+```
+
+
+```
+How does Darth Vader greet visitors to Disneyland?
+
+Welcome to the Park side.
+```
+
+

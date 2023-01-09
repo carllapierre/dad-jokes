@@ -7,3 +7,4 @@
 cp readme.md.template readme.md
 node ./hooks/scripts/compile.js >> readme.md
 git add readme.md
+git add dadjokes.json
