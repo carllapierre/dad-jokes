@@ -848,3 +848,171 @@ Welcome to the Park side.
 ```
 
 
+```
+Did you know that in the James Bond movies, all the action/risky scenes were performed by agent 0014?
+
+of course, he was, after all, his stunt double.
+```
+
+
+```
+Did you know that Vin Diesel only eats two meals a day to keep in shape for making movies?
+
+Breakfast and breakfurious
+```
+
+
+```
+What generation does Forest Gump belong to?
+
+Gen A
+```
+
+
+```
+What is Forest Gump's password for his computer?
+
+1Forest1
+```
+
+
+```
+Harry Potter became vegan...
+
+Now he only speaks parsleytongue
+```
+
+
+```
+What do you call a blind dinosaur?
+
+Doyouthinkhesaurus
+```
+
+
+```
+Why didn't the terminator upgrade to windows 10?
+
+I asked him and he said, "I still love vista, baby!"
+```
+
+
+```
+Ever hear about the movie called "Constipation"?
+
+It never came out.
+```
+
+
+```
+What's a climate activist's favorite movie?
+
+Mad at gas car
+```
+
+
+```
+Did you see the movie about the hot dog?
+
+It was an Oscar Wiener
+```
+
+
+```
+Did you know diarrhea is hereditary?
+
+Yeah, it runs in your jeans.
+```
+
+
+```
+What do you call security guards working outside Samsung shops?
+
+Guardians of the Galaxy
+```
+
+
+```
+Why can’t you give Elsa a balloon?
+
+Because she will Let it go
+```
+
+
+```
+How did Reese eat her ice cream?
+
+Witherspoon
+```
+
+
+```
+On a scale of one to ten, how obsessed with Harry Potter are you?
+
+About nine and three quarters
+```
+
+
+```
+What do you call it when Batman skips Church?
+
+Christian Bale
+```
+
+
+```
+Why doesn’t Voldemort have glasses?
+
+Nobody nose
+```
+
+
+```
+I found the first four Harry Potter books to be quite light-hearted.
+
+The fifth one was dead Sirius.
+```
+
+
+```
+What do you call a hobbit party?
+
+A little get together.
+```
+
+
+```
+Why are most hobbits good guys?
+
+Because they don’t look down on people.
+```
+
+
+```
+I did a Lord of the Rings marathon yesterday….
+
+I ran 26 miles dressed up as Frodo Baggins!
+```
+
+
+```
+R2-D2 was the most vulgar movie character of all time…
+
+They bleeped out every word he said!
+```
+
+
+```
+Why did Episodes 4, 5, and 6 come out before 1, 2, and 3?
+
+Because in charge of directing, Yoda was.
+```
+
+
+```
+I got fined $50 for sneaking popcorn and a drink into the movie theatre…
+
+It’s ok though, it still saved me money.
+```
+
+
