@@ -1016,3 +1016,171 @@ It’s ok though, it still saved me money.
 ```
 
 
+```
+What instrument do fish play?
+
+The bass guitar
+```
+
+
+```
+My ex is a musician. Her musical instrument and I had a lot in common.
+
+We both got played, constantly.
+```
+
+
+```
+What kind of instrument does a British person play?
+
+A UK-lele
+```
+
+
+```
+What is the favorite instrument when two sheep get together?
+
+....a two-baaaaaaaaaaaa
+```
+
+
+```
+What do you call a cow that can play a musical instrument?
+
+A moo-sician
+```
+
+
+```
+What's an avocado's favorite music?
+
+Guac ‘n’ roll
+```
+
+
+```
+What's a golf clubs favorite type of music?
+
+Swing
+```
+
+
+```
+I keep hearing music from the printer
+
+I think the paper keeps jamming.
+```
+
+
+```
+Why did the chicken join a band?
+
+Because he already had drum sticks!
+```
+
+
+```
+Why did the chicken join a band?
+
+Because he already had drum sticks!
+```
+
+
+```
+I wrote a song about a tortilla chip.
+
+Actually, it’s a wrap.
+```
+
+
+```
+What did yoda say when he saw himself in 4k for the first time?
+
+HDMI
+```
+
+
+```
+Why did the pianist keep banging his head against the keys?
+
+He was playing by ear.
+```
+
+
+```
+Why is a piano so hard to open?
+
+Because the keys are on the inside.
+```
+
+
+```
+My girlfriend left me because of my obsession with Linkin Park.
+
+But in the end, it doesn’t even matter.
+```
+
+
+```
+What is Beethoven’s favorite fruit?
+
+Ba-na-na-naaaaa.
+```
+
+
+```
+What is Beethoven doing now?
+
+De-composing.
+```
+
+
+```
+What kind of music are balloons afraid of?
+
+Pop Music
+```
+
+
+```
+What did Jay-Z call his wife before they were married?
+
+Feyoncé.
+```
+
+
+```
+What kind of music do bunnies like?
+
+Hip Hop.
+```
+
+
+```
+A thief was expelled from music school.
+
+It was a bit unfair, all he was doing was taking notes.
+```
+
+
+```
+what kind of music sinks to the bottom of the ocean
+
+Heavy rock
+```
+
+
+```
+What's the best brand of computer for playing pop music?
+
+A Dell
+```
+
+
+```
+What is a mummy's favorite kind of music?
+
+Rap.
+```
+
+
