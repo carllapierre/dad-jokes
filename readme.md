@@ -1184,3 +1184,248 @@ Rap.
 ```
 
 
+```
+What do you call a lazy man in space?
+
+A procrastonaut.
+```
+
+
+```
+Which is older: the moon or the sun?
+
+The moon, because it can stay out all night.
+```
+
+
+```
+How does an alien get a haircut?
+
+Eclipse it. 
+```
+
+
+```
+Why haven't aliens come to our solar system yet?
+
+They read the reviews: One star.
+```
+
+
+```
+Why did Mickey Mouse go to outer space?
+
+To find Pluto.
+```
+
+
+```
+Why didn't the sun go to college?
+
+Because it already had a million degrees!
+```
+
+
+```
+Why couldn't the astronaut book a room on the moon?
+
+It was full!
+```
+
+
+```
+Why did the Americans win the space race?
+
+Because the soviets were Stalin.
+```
+
+
+```
+How do you throw a space party?
+
+You planet.
+```
+
+
+```
+What do you call a tangled rope on International Space Station?
+
+Astroknot
+```
+
+
+```
+What kind of tea you can not have in Space ?
+
+Gravity.
+```
+
+
+```
+Why was the star arrested?
+
+It was a shooting star.
+```
+
+
+```
+France gave perfumes to countries it dominated in the past
+
+That was classic Colognialism.
+```
+
+
+```
+When my family went to France, I made sure we avoided the Eiffel tower because I was afraid it would suck our blood.
+
+It is a Paris site.
+```
+
+
+```
+I asked a French girl if she played videogames, and she said,
+
+Wii!
+```
+
+
+```
+Why do the French eat snails?
+
+Because they don’t like fast food.
+```
+
+
+```
+The cheese shop in Lyon was destroyed in the earthquake.
+
+I know it because all I saw was da-brie.
+```
+
+
+```
+Did you know that the first French Fries weren't cooked in France?
+
+They were cooked in Greece
+```
+
+
+```
+What would you call the Eiffel Tower if it falls over?
+
+The I Fell Tower!
+```
+
+
+```
+What Athens in Greece
+
+stays in Greece.
+```
+
+
+```
+What do you call the Greek version of Spider Man?
+
+Pita Parker
+```
+
+
+```
+My poor knowledge of Greek mythology...
+
+has always been my Achilles’ elbow.
+```
+
+
+```
+What is the favourite dessert of Greek chickens?
+
+BAWK-lava
+```
+
+
+```
+Why are Italians so good at making coffee?
+
+Because they’re good at espresso themselves.
+```
+
+
+```
+How does the Italian plumber talk to spirits?
+
+A Luigi board!
+```
+
+
+```
+Did you hear about the Italian chef who died?
+
+He pasta way.
+```
+
+
+```
+What do you call an Italian with no arms?
+
+Mute
+```
+
+
+```
+What do you call an Italian with a broken arm?
+
+Speech impediment.
+```
+
+
+```
+What do you call sick pasta?
+
+Mac n' sneeze!
+```
+
+
+```
+Where does spaghetti go dancing?
+
+The meatball!
+```
+
+
+```
+With climate change coming, economists predict that Canada will soon be the most powerful country in the world.
+
+And then you all will be sorry.
+```
+
+
+```
+What is Canada's national board game?
+
+Sorry
+```
+
+
+```
+50% of Canada
+
+Is the letter A
+```
+
+
+```
+You Americans may have the right to bare arms,
+
+but here in Canada, we can own moose legs.
+```
+
+
+```
+In America we can bare arms
+
+But in Canada they can arm bears.
+```
+
+
