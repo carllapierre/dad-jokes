@@ -1429,3 +1429,507 @@ But in Canada they can arm bears.
 ```
 
 
+```
+A pizza got cheated on multiple times
+
+Now it has crust issues.
+```
+
+
+```
+My Canadian friend eats a bowl of fries, cheese curds and brown gravy every single morning.
+
+It's just his daily poutine.
+```
+
+
+```
+What do you call a Tom Cruise movie with a hamburger in it?
+
+Top Bun.
+```
+
+
+```
+Two hotdogs are walking down the street
+
+One suddenly turns to the other and says, "Mike! Your wiener is showing"
+```
+
+
+```
+Whats a hamburger on a motorcyle?
+
+Fast food
+```
+
+
+```
+What do you call cheese that is sad?
+
+Blue cheese.
+```
+
+
+```
+Why did the butcher work extra hours at the shop?
+
+To make ends meat
+```
+
+
+```
+I went to a seafood restaurant and slipped.
+
+I pulled a mussel.
+```
+
+
+```
+What are hot dogs called in winter?
+
+Chilly dogs
+```
+
+
+```
+Why do hamburgers go to the gym?
+
+To get better buns.
+```
+
+
+```
+What did the grape say when he was squished?
+
+He let out a little wine
+```
+
+
+```
+How do you measure the weight of crackers?
+
+In grahams
+```
+
+
+```
+What vegetables do sailors hate?
+
+Leeks
+```
+
+
+```
+Why are mushrooms invited to parties?
+
+Because they are such fungis
+```
+
+
+```
+If at first you don’t succeed,
+
+skydiving is not for you!
+```
+
+
+```
+What is the hardest thing about skateboarding?
+
+Concrete.
+```
+
+
+```
+I kept wondering why the baseball was getting bigger.
+
+Then it hit me.
+```
+
+
+```
+What happens if Usain Bolt misses his bus?
+
+He waits for it at the next stop.
+```
+
+
+```
+Why did the golfer wear two pairs of pants?
+
+In case he got a hole in one!
+```
+
+
+```
+Why can’t Cinderella play soccer?
+
+Because she’s always running away from the ball.
+```
+
+
+```
+How do baseball players stay cool?
+
+They sit next to the fans.
+```
+
+
+```
+Where does the majority of a hockey player's salary come from?
+
+The tooth fairy.
+```
+
+
+```
+What is the most depressing thing about tennis?
+
+You’ll never be as good as a wall.
+```
+
+
+```
+Why are basketball players such messy eaters?
+
+They’re always dribbling.
+```
+
+
+```
+How do baseball players keep in touch?
+
+They touch base every once in a while.
+```
+
+
+```
+Why did the football coach go to the bank?
+
+To get his quarter back.
+```
+
+
+```
+Why are soccer players excellent in Maths?
+
+They know how to use their heads.
+```
+
+
+```
+What's the easiest sport to get into?
+
+Limbo. They don't set the bar very high.
+```
+
+
+```
+There is only one sport in which I can get a high score.
+
+It’s golf
+```
+
+
+```
+What is cardboard’s favorite sport?
+
+Boxing.
+```
+
+
+```
+Where can you find a golfer on a Saturday night?
+
+Clubbing
+```
+
+
+```
+What is the dwarfs favorite type of cake?
+
+Shortcake
+```
+
+
+```
+I identify as a chocolate bar
+
+My pronouns are her/shey
+```
+
+
+```
+What kind of chocolate does the dryer like?
+
+Lindt Chocolate
+```
+
+
+```
+Did you hear about the magician that had chocolate in his shirt?
+
+He had some Twix up his sleeve
+```
+
+
+```
+Why do ice creams tend to be bad at tennis?
+
+Because they are always going for the soft serve.
+```
+
+
+```
+Why did the birthday cake go to the doctor?
+
+Because it was a cough-y (coffee) cake.
+```
+
+
+```
+What is a jewellers favorite dessert?
+
+Carat Cake.
+```
+
+
+```
+What's cake's favourite song?
+
+'Slice, Slice, Baby'.
+```
+
+
+```
+How do you spell CANDY with only two letters?
+
+C and Y.
+```
+
+
+```
+How do you get Mexican food at the beach.
+
+Just dig your feet into the sand, then you will have buriedtoes.
+```
+
+
+```
+What is the best time to eat Mexican food?
+
+Juan o'clock.
+```
+
+
+```
+I burnt my Hawaiian pizza last night.
+
+I should have cooked it on Aloha temperature.
+```
+
+
+```
+How much does Chinese food weigh?
+
+Wonton
+```
+
+
+```
+Why did the can crusher quit his job?
+
+Because it was soda pressing.
+```
+
+
+```
+What happens if life gives you melons?
+
+Your dyslexic
+```
+
+
+```
+What kind of car does Jesus drive?
+
+A Chrysler
+```
+
+
+```
+What's worse than finding a bomb under your car?
+
+Not finding it.  
+```
+
+
+```
+Why did the frog take the bus to work?
+
+His car had been toad.
+```
+
+
+```
+What's the most important part of becoming a train?
+
+The training.
+```
+
+
+```
+What do you get when you mix a motorcycle with a joke?
+
+A Yamahaha
+```
+
+
+```
+What do you call a Ford Fiesta that ran out of gas?
+
+A Ford Siesta.
+```
+
+
+```
+What do you call a Mexican who lost his car?
+
+Carlos
+```
+
+
+```
+What kind of car does a snake drive?
+
+An Ana-Honda.
+```
+
+
+```
+What’s got four wheels and flies?
+
+A garbage truck.
+```
+
+
+```
+Did you hear about the guy that lost his left arm and leg in a car crash?
+
+He’s all right now.
+```
+
+
+```
+I had a dream last night that I was a car muffler
+
+I woke up exhausted. 
+```
+
+
+```
+Why did the cop pull over the U-Haul?
+
+He wanted to bust a move.
+```
+
+
+```
+What car did the successful sushi chef buy?
+
+A Rolls-Rice.
+```
+
+
+```
+What do you call it when only one finger steers your car?
+
+A thumb drive.
+```
+
+
+```
+What kind of car racing comes from Mexico?
+
+Formula Juan
+```
+
+
+```
+Did you hear about the train engineer from Mexico that was arrested for terrorism?
+
+Authorities say he had loco motives.
+```
+
+
+```
+What do you call an election ballot in Mexico?
+
+pick-o-de-guy-o
+```
+
+
+```
+What's the most popular arcade game in Mexico?
+
+Guac - a - mole 
+```
+
+
+```
+What do you callthe top wealthiest people in Mexico?
+
+The Juan percent.
+```
+
+
+```
+Whos the richest man in Mexico?
+
+Jeff Pesos
+```
+
+
+```
+Why did I quit my job in Mexico?
+
+It didn't peso well.
+```
+
+
+```
+Why don't Americans eat snails?
+
+Because they like fast food.
+```
+
+
+```
+What do you call a bee that lives in America?
+
+A USB.
+```
+
+
+```
+Why don't Americans use the metric system?
+
+Because they have a foot fetish.
+```
+
+
+```
+What's the difference between a computer and an American?
+
+An American doesn't have trouble-shooting.
+```
+
+
+```
+Studies show 9 in 10 Americans do not have basic math skills.
+
+I'm so glad I'm in the 1%.
+```
+
+
